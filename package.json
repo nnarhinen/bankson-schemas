@@ -1,0 +1,24 @@
+{
+  "name": "bankson-schemas",
+  "version": "1.0.0",
+  "description": "Bankson shared schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnarhinen/bankson-schemas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnarhinen/bankson-schemas/issues"
+  },
+  "homepage": "https://github.com/nnarhinen/bankson-schemas#readme",
+  "dependencies": {
+    "big.js": "^3.1.3",
+    "jsonschema": "^1.1.0",
+    "underscore": "^1.8.3"
+  }
+}
